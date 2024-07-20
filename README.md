@@ -5,21 +5,21 @@
 ## Components:
 
 ### Angular Material: 
-* ![link](https://material.angular.io/guide/getting-started)
-´´´
+* [link](https://material.angular.io/guide/getting-started)
+```
   ng add @angular/material
-´´´
+```
 ### Boodstrap: 
-* ![link](https://getbootstrap.com/)
-´´´
+* [link](https://getbootstrap.com/)
+```
   npm i bootstrap@5.3.3
-´´´
+```
 ### fontAwesome: 
-* ![link](https://github.com/FortAwesome/angular-fontawesome),
-* ![npm](https://www.npmjs.com/package/@fortawesome/angular-fontawesome)
-´´´
+* [link](https://github.com/FortAwesome/angular-fontawesome),
+* [npm](https://www.npmjs.com/package/@fortawesome/angular-fontawesome)
+```
   npm install @fortawesome/angular-fontawesome@18.x
-´´´
+```
 
 
 
