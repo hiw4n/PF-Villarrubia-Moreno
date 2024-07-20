@@ -10,6 +10,7 @@ import { SharedModule } from './shared/shared.module';
 import { PagesModule } from './pages/pages.module';
 import { LayoutModule } from './layout/layout.module';
 import { ComponentsModule } from './components/components.module';
+import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 
 @NgModule({
   declarations: [AppComponent],
@@ -21,7 +22,7 @@ import { ComponentsModule } from './components/components.module';
     LayoutModule,
     ComponentsModule,
   ],
-  providers: [provideClientHydration()],
+  providers: [provideClientHydration(), provideAnimationsAsync()],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

@@ -1,3 +1,28 @@
+# PROYECTO ANGULAR
+
+
+
+## Components:
+
+### Angular Material: 
+* ![link](https://material.angular.io/guide/getting-started)
+´´´
+  ng add @angular/material
+´´´
+### Boodstrap: 
+* ![link](https://getbootstrap.com/)
+´´´
+  npm i bootstrap@5.3.3
+´´´
+### fontAwesome: 
+* ![link](https://github.com/FortAwesome/angular-fontawesome),
+* ![npm](https://www.npmjs.com/package/@fortawesome/angular-fontawesome)
+´´´
+  npm install @fortawesome/angular-fontawesome@18.x
+´´´
+
+
+
 # PFVillarrubiaMoreno
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
