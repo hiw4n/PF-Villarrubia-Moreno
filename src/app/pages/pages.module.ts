@@ -1,9 +1,11 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { DrashboardModule } from './drashboard/drashboard.module';
+
+import { PagesRoutingModule } from './pages-routing.module';
+import { DashboardModule } from './dashboard/dashboard.module';
 
 @NgModule({
   declarations: [],
-  imports: [CommonModule, DrashboardModule],
+  imports: [CommonModule, PagesRoutingModule, DashboardModule],
 })
 export class PagesModule {}

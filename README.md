@@ -1,9 +1,8 @@
-# PROYECTO ANGULAR
+# ANGULAR PROJECT
 
 
 
-## Components:
-
+## Complements:
 ### Angular Material: 
 * [link](https://material.angular.io/guide/getting-started)
 ```
@@ -20,6 +19,33 @@
 ```
   npm install @fortawesome/angular-fontawesome@18.x
 ```
+### json to interface:
+* transform.tools: [link](https://transform.tools/json-to-typescript)
+
+### Software:
+* VisualStudio code.
+* Figma.
+* Photoshop.
+
+* Angular 18.
+* Node.
+* Js.
+* Html.
+* Scss / Sass.
+
+### obtención de info / IA:
+* JSon creados por: 
+ * chatGpt: [link](https://chatgpt.com/)
+* Imágenes creadas por: 
+ * Adobe firefly: [link](https://firefly.adobe.com/ ) 
+ * Freepick: [link](https://www.freepik.es/ai/imagenes) 
+ * OpenArt: [link](https://openart.ai/create) 
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,464 @@
+[
+    {
+      "nombre": "Alex Ryder",
+      "edad": 35,
+      "especie": "Humano",
+      "origen": "Tierra",
+      "afiliacion": "Exploradores Galácticos Unidos",
+      "profesion": "Explorador Espacial",
+      "habilidades": [
+        "Pilotaje avanzado",
+        "Análisis científico",
+        "Supervivencia en ambientes hostiles"
+      ],
+      "equipo": {
+        "nave_espacial": "Stellar Voyager",
+        "traje_espacial": "Explorer Mk III"
+      },
+      "mision_actual": {
+        "nombre_mision": "Investigación del Planeta X",
+        "descripcion": "Estudiar la composición química y la posible habitabilidad del Planeta X.",
+        "estado": "Completada"
+      }
+    },
+    {
+      "nombre": "Lara Vega",
+      "edad": 28,
+      "especie": "Humano",
+      "origen": "Marte",
+      "afiliacion": "Corp. Exploración Marciana",
+      "profesion": "Bióloga Espacial",
+      "habilidades": [
+        "Análisis biológico",
+        "Genética espacial",
+        "Investigación de vida extraterrestre"
+      ],
+      "equipo": {
+        "nave_espacial": "Bio Cruiser",
+        "traje_espacial": "BioSuit Pro"
+      },
+      "mision_actual": {
+        "nombre_mision": "Rescate en la Nebulosa",
+        "descripcion": "Rescatar a un equipo de científicos atrapados en la Nebulosa de Andrómeda.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Talon Rax",
+      "edad": 42,
+      "especie": "Zorkon",
+      "origen": "Zorkonia Prime",
+      "afiliacion": "Legión Zorkoniana",
+      "profesion": "Guerrero Explorador",
+      "habilidades": [
+        "Combate cuerpo a cuerpo",
+        "Estrategia militar",
+        "Supervivencia extrema"
+      ],
+      "equipo": {
+        "nave_espacial": "War Hawk",
+        "traje_espacial": "Battle Armor ZK"
+      },
+      "mision_actual": {
+        "nombre_mision": "Reconocimiento de Alpha Zed",
+        "descripcion": "Evaluar la amenaza en el sistema Alpha Zed.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Mira Solis",
+      "edad": 30,
+      "especie": "Humano",
+      "origen": "Luna",
+      "afiliacion": "Alianza Lunar",
+      "profesion": "Ingeniera Espacial",
+      "habilidades": [
+        "Reparaciones mecánicas",
+        "Ingeniería de sistemas",
+        "Programación avanzada"
+      ],
+      "equipo": {
+        "nave_espacial": "Lunar Rover X",
+        "traje_espacial": "TechSuit L1"
+      },
+      "mision_actual": {
+        "nombre_mision": "Construcción de Base Lunar",
+        "descripcion": "Supervisar la construcción de una nueva base en la Luna.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Zara Quill",
+      "edad": 27,
+      "especie": "Humano",
+      "origen": "Europa (Luna de Júpiter)",
+      "afiliacion": "Federación Joviana",
+      "profesion": "Geóloga Espacial",
+      "habilidades": [
+        "Análisis geológico",
+        "Exploración subterránea",
+        "Mapeo planetario"
+      ],
+      "equipo": {
+        "nave_espacial": "Geo Explorer",
+        "traje_espacial": "GeoSuit Pro"
+      },
+      "mision_actual": {
+        "nombre_mision": "Exploración de las Cavernas de Europa",
+        "descripcion": "Investigar las formaciones geológicas subterráneas de Europa.",
+        "estado": "Completada"
+      }
+    },
+    {
+      "nombre": "Kaden Voss",
+      "edad": 38,
+      "especie": "Humano",
+      "origen": "Titan",
+      "afiliacion": "Asociación de Colonias de Saturno",
+      "profesion": "Astrofísico",
+      "habilidades": [
+        "Investigación astrofísica",
+        "Observación estelar",
+        "Teoría cuántica"
+      ],
+      "equipo": {
+        "nave_espacial": "Star Seeker",
+        "traje_espacial": "AstroSuit X"
+      },
+      "mision_actual": {
+        "nombre_mision": "Estudio de un Agujero Negro",
+        "descripcion": "Analizar el comportamiento de un agujero negro cercano.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Rina Korr",
+      "edad": 31,
+      "especie": "Humano",
+      "origen": "Tierra",
+      "afiliacion": "Agencia Espacial Internacional",
+      "profesion": "Piloto Espacial",
+      "habilidades": [
+        "Pilotaje avanzado",
+        "Navegación estelar",
+        "Combate aéreo"
+      ],
+      "equipo": {
+        "nave_espacial": "Falcon IX",
+        "traje_espacial": "PilotSuit Mk II"
+      },
+      "mision_actual": {
+        "nombre_mision": "Escolta de Carga a Marte",
+        "descripcion": "Escoltar una nave de carga desde la Tierra hasta Marte.",
+        "estado": "Completada"
+      }
+    },
+    {
+      "nombre": "Zara Q'tel",
+      "edad": 28,
+      "especie": "Vul'thari",
+      "origen": "Vul'thar Prime",
+      "afiliacion": "Consorcio Vul'thari",
+      "profesion": "Diplomática Espacial",
+      "habilidades": [
+        "Negociación interplanetaria",
+        "Cultura extraterrestre",
+        "Estrategia diplomática"
+      ],
+      "equipo": {
+        "nave_espacial": "Diplomat Cruiser",
+        "traje_espacial": "DiplomatSuit V1"
+      },
+      "mision_actual": {
+        "nombre_mision": "Negociación de Paz en Rigel",
+        "descripcion": "Medir y negociar la paz entre las facciones en el sistema Rigel.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Orion Pax",
+      "edad": 45,
+      "especie": "Androide",
+      "origen": "Tierra",
+      "afiliacion": "Cuerpo de Exploración Robótica",
+      "profesion": "Explorador Científico",
+      "habilidades": [
+        "Análisis de datos",
+        "Resistencia extrema",
+        "Interfaz con tecnología"
+      ],
+      "equipo": {
+        "nave_espacial": "Data Voyager",
+        "traje_espacial": "RoboticShell X"
+      },
+      "mision_actual": {
+        "nombre_mision": "Recolección de Datos en Alpha Centauri",
+        "descripcion": "Recopilar datos científicos en el sistema Alpha Centauri.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Elara Finn",
+      "edad": 29,
+      "especie": "Humano",
+      "origen": "Tierra",
+      "afiliacion": "Exploradores del Espacio Profundo",
+      "profesion": "Arqueóloga Espacial",
+      "habilidades": [
+        "Investigación arqueológica",
+        "Decodificación de lenguajes",
+        "Historia galáctica"
+      ],
+      "equipo": {
+        "nave_espacial": "ArcheoFinder",
+        "traje_espacial": "ArcheoSuit"
+      },
+      "mision_actual": {
+        "nombre_mision": "Exploración de Ruinas en Proxima B",
+        "descripcion": "Investigar las ruinas antiguas en el planeta Proxima B.",
+        "estado": "Completada"
+      }
+    },
+    {
+      "nombre": "Kael Rynn",
+      "edad": 33,
+      "especie": "Humano",
+      "origen": "Ganimedes",
+      "afiliacion": "Cónclave de Ganimedes",
+      "profesion": "Explorador de Superficie",
+      "habilidades": [
+        "Cartografía avanzada",
+        "Exploración de terrenos",
+        "Supervivencia extrema"
+      ],
+      "equipo": {
+        "nave_espacial": "Surface Rover",
+        "traje_espacial": "ExplorerSuit G1"
+      },
+      "mision_actual": {
+        "nombre_mision": "Cartografía de la Luna Callisto",
+        "descripcion": "Mapear la superficie de la luna Callisto.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Soren Lux",
+      "edad": 40,
+      "especie": "Humano",
+      "origen": "Ceres",
+      "afiliacion": "Coalición de Mineros de Ceres",
+      "profesion": "Ingeniero de Minería",
+      "habilidades": [
+        "Extracción de minerales",
+        "Ingeniería mecánica",
+        "Operación de maquinaria pesada"
+      ],
+      "equipo": {
+        "nave_espacial": "Miner's Hope",
+        "traje_espacial": "MinerSuit X"
+      },
+      "mision_actual": {
+        "nombre_mision": "Extracción en el Asteroide Vesta",
+        "descripcion": "Dirigir la extracción de recursos en el asteroide Vesta.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Nova Star",
+      "edad": 34,
+      "especie": "Humano",
+      "origen": "Titan",
+      "afiliacion": "Corporación Estelar",
+      "profesion": "Piloto de Caza",
+      "habilidades": [
+        "Combate aéreo",
+        "Evasión táctica",
+        "Pilotaje de alta velocidad"
+      ],
+      "equipo": {
+        "nave_espacial": "Starfighter Nova",
+        "traje_espacial": "CombatSuit T1"
+      },
+      "mision_actual": {
+        "nombre_mision": "Defensa de la Colonia Titan",
+        "descripcion": "Proteger la colonia en Titan de ataques enemigos.",
+        "estado": "Completada"
+      }
+    },
+    {
+      "nombre": "Lyra Voss",
+      "edad": 37,
+      "especie": "Humano",
+      "origen": "Venus",
+      "afiliacion": "Expedición Venusiana",
+      "profesion": "Meteoróloga Espacial",
+      "habilidades": [
+        "Análisis climático",
+        "Predicción de tormentas",
+        "Estudio atmosférico"
+      ],
+      "equipo": {
+        "nave_espacial": "Weather Watcher",
+        "traje_espacial": "WeatherSuit V2"
+      },
+      "mision_actual": {
+        "nombre_mision": "Estudio de Tormentas en Venus",
+        "descripcion": "Investigar las tormentas atmosféricas en Venus.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Jax Tarell",
+      "edad": 32,
+      "especie": "Humano",
+      "origen": "Neptuno",
+      "afiliacion": "Orden de Exploradores Neptunianos",
+      "profesion": "Explorador de Océanos",
+      "habilidades": [
+        "Exploración submarina",
+        "Biología marina",
+        "Cartografía oceánica"
+      ],
+      "equipo": {
+        "nave_espacial": "Ocean Explorer",
+        "traje_espacial": "AquaSuit N3"
+      },
+      "mision_actual": {
+        "nombre_mision": "Exploración de los Océanos de Neptuno",
+        "descripcion": "Cartografiar y estudiar los océanos de Neptuno.",
+        "estado": "Completada"
+      }
+    },
+    {
+      "nombre": "Vara Zinn",
+      "edad": 29,
+      "especie": "Humano",
+      "origen": "Plutón",
+      "afiliacion": "Sociedad de Colonos Plutonianos",
+      "profesion": "Exploradora de Frontera",
+      "habilidades": [
+        "Supervivencia en frío extremo",
+        "Exploración de áreas inexploradas",
+        "Técnicas de autodefensa"
+      ],
+      "equipo": {
+        "nave_espacial": "Frost Seeker",
+        "traje_espacial": "FrostSuit P1"
+      },
+      "mision_actual": {
+        "nombre_mision": "Exploración del Cinturón de Kuiper",
+        "descripcion": "Investigar objetos en el Cinturón de Kuiper.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Nara Korr",
+      "edad": 26,
+      "especie": "Humano",
+      "origen": "Mercurio",
+      "afiliacion": "Legión Mercuriana",
+      "profesion": "Exploradora de Superficie",
+      "habilidades": [
+        "Resistencia al calor",
+        "Exploración de superficies rocosas",
+        "Cartografía avanzada"
+      ],
+      "equipo": {
+        "nave_espacial": "Sun Walker",
+        "traje_espacial": "HeatSuit M1"
+      },
+      "mision_actual": {
+        "nombre_mision": "Exploración de Cráteres en Mercurio",
+        "descripcion": "Investigar los cráteres en la superficie de Mercurio.",
+        "estado": "Completada"
+      }
+    },
+    {
+      "nombre": "Xara Vex",
+      "edad": 30,
+      "especie": "Humano",
+      "origen": "Marte",
+      "afiliacion": "Alianza de Marte",
+      "profesion": "Ingeniera de Terraformación",
+      "habilidades": [
+        "Terraformación",
+        "Ingeniería climática",
+        "Biología de ecosistemas"
+      ],
+      "equipo": {
+        "nave_espacial": "Terraformer",
+        "traje_espacial": "EcoSuit M3"
+      },
+      "mision_actual": {
+        "nombre_mision": "Proyecto de Terraformación en Marte",
+        "descripcion": "Implementar tecnología de terraformación en Marte.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Juno Thal",
+      "edad": 34,
+      "especie": "Humano",
+      "origen": "Ceres",
+      "afiliacion": "Consorcio Minero de Ceres",
+      "profesion": "Geólogo Espacial",
+      "habilidades": [
+        "Análisis de minerales",
+        "Geología planetaria",
+        "Perforación de núcleos"
+      ],
+      "equipo": {
+        "nave_espacial": "Core Driller",
+        "traje_espacial": "GeoSuit C1"
+      },
+      "mision_actual": {
+        "nombre_mision": "Extracción de Núcleo en Ceres",
+        "descripcion": "Extraer muestras de núcleo del asteroide Ceres.",
+        "estado": "Completada"
+      }
+    },
+    {
+      "nombre": "Rei Mako",
+      "edad": 29,
+      "especie": "Humano",
+      "origen": "Ganimedes",
+      "afiliacion": "Federación de Ganimedes",
+      "profesion": "Investigador Espacial",
+      "habilidades": [
+        "Investigación científica",
+        "Análisis de datos",
+        "Tecnología avanzada"
+      ],
+      "equipo": {
+        "nave_espacial": "Data Probe",
+        "traje_espacial": "ResearchSuit G2"
+      },
+      "mision_actual": {
+        "nombre_mision": "Estudio de Gases en Júpiter",
+        "descripcion": "Analizar las composiciones gaseosas en la atmósfera de Júpiter.",
+        "estado": "En curso"
+      }
+    },
+    {
+      "nombre": "Vega Tor",
+      "edad": 31,
+      "especie": "Humano",
+      "origen": "Europa (Luna de Júpiter)",
+      "afiliacion": "Coalición Europa",
+      "profesion": "Biólogo Espacial",
+      "habilidades": [
+        "Biología celular",
+        "Estudio de microorganismos",
+        "Ecología espacial"
+      ],
+      "equipo": {
+        "nave_espacial": "Bio Researcher",
+        "traje_espacial": "BioSuit E2"
+      },
+      "mision_actual": {
+        "nombre_mision": "Investigación de Vida en Europa",
+        "descripcion": "Estudiar posibles formas de vida en el océano subterráneo de Europa.",
+        "estado": "En curso"
+      }
+    }
+]
