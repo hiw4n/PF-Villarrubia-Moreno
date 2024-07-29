@@ -1,10 +1,12 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { NavbarScrollComponent } from './navbar-scroll/navbar-scroll.component';
+// Material
+import { NavbarComponent } from './navbar/navbar.component';
+import { MatIconModule } from '@angular/material/icon';
 
 @NgModule({
-  declarations: [NavbarScrollComponent],
-  exports: [NavbarScrollComponent],
-  imports: [CommonModule],
+  declarations: [NavbarComponent],
+  exports: [NavbarComponent],
+  imports: [CommonModule, MatIconModule],
 })
 export class ComponentsModule {}

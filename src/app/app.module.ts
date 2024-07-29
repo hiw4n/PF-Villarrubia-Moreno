@@ -3,6 +3,8 @@ import {
   BrowserModule,
   provideClientHydration,
 } from '@angular/platform-browser';
+// Other
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 //APP MODULES
 import { AppRoutingModule } from './app-routing.module';
@@ -12,11 +14,7 @@ import { PagesModule } from './pages/pages.module';
 import { LayoutModule } from './layout/layout.module';
 import { ComponentsModule } from './components/components.module';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
-//Material
-import { MatButtonModule } from '@angular/material/button';
-import { MatSelectModule } from '@angular/material/select';
-import { MatFormFieldModule } from '@angular/material/form-field';
-import { MatSidenavModule } from '@angular/material/sidenav';
+
 @NgModule({
   declarations: [AppComponent],
   imports: [
@@ -26,11 +24,7 @@ import { MatSidenavModule } from '@angular/material/sidenav';
     PagesModule,
     LayoutModule,
     ComponentsModule,
-    //Material
-    MatSidenavModule,
-    MatFormFieldModule,
-    MatSelectModule,
-    MatButtonModule,
+    FontAwesomeModule,
   ],
   providers: [provideClientHydration(), provideAnimationsAsync()],
   bootstrap: [AppComponent],

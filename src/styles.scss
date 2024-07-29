@@ -38,3 +38,6 @@ $PF-Villarrubia-Moreno-theme: mat.define-theme((
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+@import "./app/scss/fonts.scss";
+@import "./app/scss/var.scss";
+@import "./app/scss/style.scss";

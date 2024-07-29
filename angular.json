@@ -40,6 +40,8 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/app/scss/fonts.scss",
+              "src/app/scss/var.scss",
               "src/styles.scss"
             ],
             "scripts": [

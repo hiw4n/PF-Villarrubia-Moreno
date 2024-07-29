@@ -40,6 +40,9 @@
  * Adobe firefly: [link](https://firefly.adobe.com/ ) 
  * Freepick: [link](https://www.freepik.es/ai/imagenes) 
  * OpenArt: [link](https://openart.ai/create) 
+* Tutoriales de referencia:
+  * Dev.to: 
+    * How to create a responsive sidebar and mini navigation with Material Angular [link](https://dev.to/davidihl/how-to-create-a-responsive-sidebar-and-mini-navigation-with-material-angular-o5l)
 
 
 
