@@ -7,6 +7,7 @@ import { LayoutPageComponent } from './page/layout-page/layout-page.component';
 import { ListPageComponent } from './page/list-page/list-page.component';
 import { NewPageComponent } from './page/new-page/new-page.component';
 import { SearchPageComponent } from './page/search-page/search-page.component';
+import { MaterialModule } from '../../shared/material/material.module';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,6 @@ import { SearchPageComponent } from './page/search-page/search-page.component';
     NewPageComponent,
     SearchPageComponent,
   ],
-  imports: [CommonModule, ExploresRoutingModule],
+  imports: [CommonModule, ExploresRoutingModule, MaterialModule],
 })
 export class ExploresModule {}

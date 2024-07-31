@@ -13,12 +13,14 @@ import { SharedModule } from './shared/shared.module';
 import { PagesModule } from './pages/pages.module';
 import { ComponentsModule } from './components/components.module';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
+import { FeaturesModule } from './features/features.module';
 
 @NgModule({
   declarations: [AppComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
+    FeaturesModule,
     SharedModule,
     PagesModule,
     ComponentsModule,
