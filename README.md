@@ -13,6 +13,11 @@
 ```
   npm i bootstrap@5.3.3
 ```
+### Primeflex: 
+* [link](https://primeflex.org/)
+```
+  npm i primeflex
+```
 ### fontAwesome: 
 * [link](https://github.com/FortAwesome/angular-fontawesome),
 * [npm](https://www.npmjs.com/package/@fortawesome/angular-fontawesome)

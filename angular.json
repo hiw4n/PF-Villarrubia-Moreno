@@ -41,10 +41,8 @@
             "styles": [
               "src/styles.scss",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/app/scss/fonts.scss",
-              "src/app/scss/var.scss",
-              "src/app/scss/styles.scss"
-            ],
+              "node_modules/primeflex/primeflex.css"
+                       ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.min.js"
             ],
