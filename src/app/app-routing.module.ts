@@ -10,18 +10,20 @@ const routes: Routes = [
   },
   {
     path: 'auth',
-    loadChildren: () => import('./auth/auth.module').then((r) => r.AuthModule),
+    loadChildren: () =>
+      import('./features/auth/auth.module').then((r) => r.AuthModule),
   },
   {
     path: 'explores',
     loadChildren: () =>
-      import('./explores/explores.module').then((r) => r.ExploresModule),
+      import('./features/explores/explores.module').then(
+        (r) => r.ExploresModule
+      ),
   },
   {
     path: '404',
     component: Error404PageComponent,
   },
-
   {
     path: 'dashboard',
     loadChildren: () =>

@@ -11,7 +11,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SharedModule } from './shared/shared.module';
 import { PagesModule } from './pages/pages.module';
-import { LayoutModule } from './layout/layout.module';
 import { ComponentsModule } from './components/components.module';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 
@@ -22,7 +21,6 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
     AppRoutingModule,
     SharedModule,
     PagesModule,
-    LayoutModule,
     ComponentsModule,
     FontAwesomeModule,
   ],
