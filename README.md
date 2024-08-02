@@ -27,6 +27,19 @@
 ### json to interface:
 * transform.tools: [link](https://transform.tools/json-to-typescript)
 
+### json server:
+* [link](https://www.npmjs.com/package/json-server)
+```
+  npm install json-server
+```
+```
+  // package.json
+   "scripts": {
+    ...
+    "backend":"npx json-server db.json",
+    ...
+   }
+```
 ### Software:
 * VisualStudio code.
 * Figma.
